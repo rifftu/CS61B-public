@@ -1,0 +1,63 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: using get when resizing
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: it expanded to the right really nicely
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: it expanded to the left not so nicely
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: i learned how to implement his circular solution better
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: i wish i knew how hard it would be
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: i would try the circular array structure
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: using get
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: it worked flawlessly 
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:nothing
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: everyone had more or less the same solution
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A: nothing
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A: nothing
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: i liked it. it's great
